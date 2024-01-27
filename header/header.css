@@ -1,0 +1,862 @@
+/*
+.logo {
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(
+        180deg,
+        rgb(255, 213, 0) 0%,
+        rgb(0, 0, 0) 26.1%,
+        rgb(255, 214.2, 0) 74.1%,
+        rgb(255, 255, 255) 98.59%,
+        rgb(255, 214.2, 0) 78.6%
+    );
+    background-clip: text;
+    color: transparent;
+    font-family: "Irish Grover-Regular", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+  
+    text-shadow: 0px 11px 16.6px #000000ed;
+    top: 0;
+    width: 212px;
+    padding: 20px;
+}
+/*
+.header__container{
+    
+        height: 387px;
+        width: 387px;
+}
+.box{   
+  
+        background:var(--color-bg-variant);
+        height: 387px;
+        left: 0;
+        position: fixed;
+        top: 0;
+        width: 387px;
+    
+    
+}
+
+header{
+    height: 0vh;
+    padding-top: 7rem;
+   
+    overflow: hidden;
+
+}
+
+.header__container{
+    height: 100%;
+    
+}
+.ad{
+    width: 234px; 
+    height: 30px;
+    position:'';
+    top: 0;
+    left: 0;
+    font-weight: 400;
+    size: 24px;
+    line-height: 30px;
+    color: rgba(0,0,0,1);  
+}
+ 
+ .header__container .ad{  
+    
+  color: transparent;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: fixed;
+  top: 0;
+
+
+ }   
+ 
+
+ .label {
+    height: 30px;
+    width: 234px;
+  }
+  
+  .label .amazing-place {
+    color: transparent;
+    font-family: "Krona One-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: fixed;
+    top: 0;
+  }
+  
+  .label .text-wrapper {
+    color: #ffffff;
+  }
+  
+  .label .span {
+    color: #000000;
+  }
+  
+
+ .spydt{
+
+    width: 733px;
+    height: 45px;
+    text-align: center;
+    align-items:auto;
+    top: 0;
+    left: 0;
+    position: '';
+    font-weight: 400;
+    color: transparent;
+    font-size: 36px;
+    letter-spacing: 0;
+    line-height: normal;
+
+ }
+
+
+.header__container__searchbar {
+    height: 73px;;
+    width: 506px;
+    background-color: #d8af0b80;
+    border-radius: 22px;
+    position: '';
+    left: 50%;
+    margin-left: -253;
+    transform: translateX(-50);
+    text-align: center;
+    display: block;
+}
+
+.find__here{
+     
+        height: 158px;
+        width: 1220px;
+   
+        background-color: #a3a0a0;
+        background: transparent;
+        border-radius: 35px;
+        height: 158px;
+        left: 0;
+        position:'';
+        top: 0;
+        width: 1220px;
+    
+    
+}
+*/
+/*
+
+.travel-website-page {
+ 
+  display: flex;
+  background:gray;
+  justify-content:space-between;
+  
+}
+
+.travel-website-page .div {
+ 
+  height: 1024px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.travel-website-page .overlap {
+
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+/*
+
+.travel-website-page .text-wrapper {
+  color: transparent;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 26px;
+  white-space: nowrap;
+  width: 56px;
+}
+
+.travel-website-page .text-wrapper-2 {
+  color: transparent;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 164px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 26px;
+  width: 57px;
+}
+
+.travel-website-page .text-wrapper-3 {
+  color: transparent;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 296px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 26px;
+  width: 92px;
+}
+
+.travel-website-page .text-wrapper-4 {
+  color: transparent;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 462px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 26px;
+  width: 72px;
+}
+
+.travel-website-page .text-wrapper-5 {
+  color: transparent;
+  font-family: "Inter-Regular", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  left: 608px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 26px;
+  width: 52px;
+}
+
+
+.travel-website-page .line {
+  height: 3px;
+  left: 744px;
+  position: absolute;
+  top: 22px;
+  width: 24px;
+}
+*/
+/*
+.travel-website-page .img {
+  height: 3px;
+  left: 744px;
+  position: absolute;
+  top: 32px;
+  width: 24px;
+}
+
+.travel-website-page .line-2 {
+  height: 3px;
+  left: 744px;
+  position: absolute;
+  top: 42px;
+  width: 24px;
+}
+
+
+
+.travel-website-page .travel-the-world {
+  color: transparent;
+  font-family: "Kumbh Sans-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 374px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 525px;
+  width: 747px;
+}
+
+.travel-website-page .span {
+  color: #000000;
+}
+
+
+
+.travel-website-page .web__logo {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+      180deg,
+      rgb(255, 214.2, 0) 0%,
+      rgba(0, 0, 0, 0.93) 26.1%,
+      rgb(255, 214.2, 0) 74.1%,
+      rgb(255, 255, 255) 98.59%,
+      rgb(255, 214.2, 0) 98.6%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 52px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  color: transparent;
+  text-shadow: 0px 11px 16.6px #000000ed;
+  top: 73px;
+  width: 212px;
+}
+
+.travel-website-page .start-planning-your {
+  color: transparent;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 365px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 453px;
+}
+
+.travel-website-page .text-wrapper-13 {
+  color: #ffd600;
+}
+
+.travel-website-page .text-wrapper-14 {
+  color: #ffffff;
+}
+
+.travel-website-page .amazing-place {
+  color: transparent;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 374px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 382px;
+}
+
+.travel-website-page .overlap-group {
+  background-color: #ffd600;
+  border-radius: 26px;
+  height: 61px;
+  left: 634px;
+  position: absolute;
+  top: 719px;
+  width: 172px;
+}
+
+.travel-website-page .text-wrapper-15 {
+  color: #000000;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+  width: 153px;
+}
+
+.travel-website-page .overlap-2 {
+  background-color: #d9d9d980;
+  border-radius: 22px;
+  height: 73px;
+  left: 467px;
+  position: absolute;
+  top: 624px;
+  width: 506px;
+}
+
+.travel-website-page .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Inter-Medium", Helvetica;
+  font-size: 26px;
+  font-weight: 500;
+  left: 187px;
+  letter-spacing: 0.52px;
+  line-height: 27px;
+  position: absolute;
+  top: 19px;
+  width: 126px;
+}
+
+.travel-website-page .group {
+  height: 37px;
+  left: 408px;
+  position: absolute;
+  top: 18px;
+  width: 37px;
+}
+
+.travel-website-page .overlap-group-2 {
+  height: 39px;
+  left: -2px;
+  position: relative;
+  top: -2px;
+  width: 40px;
+}
+
+.travel-website-page .ellipse {
+  background-color: #fbf7f7;
+  border: 2px solid;
+  border-color: #000000;
+  border-radius: 14.95px;
+  height: 30px;
+  left: 0;
+  opacity: 0.2;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.travel-website-page .line-3 {
+  height: 12px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 27px;
+  width: 12px;
+}
+
+.travel-website-page .overlap-3 {
+  height: 202px;
+  left: 107px;
+  position: absolute;
+  top: 802px;
+  width: 1220px;
+}
+
+.travel-website-page .rectangle-2 {
+  background-color: #d9d9d9;
+  border-radius: 35px;
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 20px;
+  width: 1220px;
+}
+
+.travel-website-page .rectangle-3 {
+  background-color: #ffd600;
+  border-radius: 35px;
+  height: 202px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 179px;
+}
+
+.travel-website-page .find-your-holidays {
+  color: #000000;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 19px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 70px;
+}
+
+.travel-website-page .rectangle-4 {
+  background-color: #00000033;
+  border: 1px solid;
+  border-color: #e3e3e3;
+  border-radius: 6px;
+  height: 54px;
+  left: 220px;
+  position: absolute;
+  top: 72px;
+  width: 204px;
+}
+
+.travel-website-page .rectangle-5 {
+  background-color: #00000033;
+  border: 1px solid;
+  border-color: #e3e3e3;
+  border-radius: 6px;
+  height: 54px;
+  left: 465px;
+  position: absolute;
+  top: 71px;
+  width: 204px;
+}
+
+.travel-website-page .rectangle-6 {
+  background-color: #00000033;
+  border: 1px solid;
+  border-color: #e3e3e3;
+  border-radius: 6px;
+  height: 54px;
+  left: 706px;
+  position: absolute;
+  top: 75px;
+  width: 204px;
+}
+
+.travel-website-page .rectangle-7 {
+  background-color: #ffd600;
+  border-radius: 26px;
+  height: 54px;
+  left: 999px;
+  position: absolute;
+  top: 71px;
+  width: 204px;
+}
+
+.travel-website-page .text-wrapper-17 {
+  color: #000000;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 1038px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.travel-website-page .text-wrapper-18 {
+  color: #000000;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 247px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 88px;
+}
+
+.travel-website-page .text-wrapper-19 {
+  color: #000000;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 733px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 91px;
+}
+
+.travel-website-page .arrow {
+  height: 8px;
+  left: 398px;
+  position: absolute;
+  top: 96px;
+  width: 15px;
+}
+
+.travel-website-page .arrow-2 {
+  height: 8px;
+  left: 643px;
+  position: absolute;
+  top: 95px;
+  width: 15px;
+}
+
+.travel-website-page .arrow-3 {
+  height: 8px;
+  left: 884px;
+  position: absolute;
+  top: 99px;
+  width: 15px;
+}
+
+.travel-website-page .text-wrapper-20 {
+  color: #000000;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 482px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 87px;
+}
+
+.travel-website-page .rectangle-8 {
+  background-color: #0000004f;
+  height: 994px;
+  left: -1611px;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 1611px;
+}
+
+*/
+
+.travel-website {
+ background: #cbcbcb;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.travel-website .div {
+  
+  height: 1024px;
+  position: relative;
+  width: 1440px;
+}
+
+.travel-website .website-logo {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(
+      180deg,
+      rgb(69.9, 68.92, 63.78) 2.1%,
+      rgb(255, 214.2, 0) 24.1%,
+      rgba(0, 0, 0, 0.93) 35.1%,
+      rgb(255, 214.2, 0) 63.1%,
+      rgb(255, 255, 255) 98.59%,
+      rgb(255, 214.2, 0) 98.6%
+  );
+  background-clip: text;
+  color: transparent;
+  font-family: "Irish Grover-Regular", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 43px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  
+  text-shadow: 0px 4px 16.6px #000000ed;
+  top: 65px;
+  width: 212px;
+}
+
+
+
+.travel-website .travel-text {
+  height: 214px;
+  left: 255px;
+  position: absolute;
+  top: 371px;
+  width: 762px;
+}
+
+.travel-website .travel-the-world {
+  color: transparent;
+  font-family: "Kumbh Sans-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 143px;
+  width: 747px;
+}
+
+.travel-website .span {
+  color: #000000;
+}
+
+.travel-website .text-wrapper-6 {
+  color: #ffffffdb;
+}
+
+.travel-website .start-planning-your {
+  color: transparent;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+}
+
+.travel-website .text-wrapper-7 {
+  color: #ffd600;
+}
+
+.travel-website .text-wrapper-8 {
+  color: #ffffff;
+}
+
+.travel-website .amazing-place {
+  color: transparent;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.btn-booknow {
+ 
+  left: 659px;
+  position: absolute;
+  top: 624px;
+  gap:1.2rem;
+  bottom: 2px solid;
+  border-radius:10%;
+  background: #f7d80d;
+  margin-top: 2.5rem;
+  display: flex;
+
+  
+}
+
+
+
+.find-your-holidays { 
+  height: 202px;
+  left: 110px;
+  position: absolute;
+  top: 724px;
+  width: 1222px;
+}
+
+.fyh {
+  background-color: #f6f2f2;
+  border-radius: 35px;
+  height: 158px;
+  left: 0;
+  position: absolute;
+  top: 22px;
+  width: 1220px;
+}
+
+.fyh-box {
+  background-color: #ffd600;
+  border-radius: 35px;
+  height: 202px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 179px;
+}
+
+.search-btn-fyh {
+  height: 54px;
+  left: 975px;
+  position: absolute;
+  top: 74px;
+ 
+  
+  border: 22px;
+  border-radius: 2rem;
+    
+}
+
+
+
+
+
+.travel-type-btn {
+  height: 54px;
+  left: 468px;
+  position: absolute;
+  top: 74px;
+  width: 204px;
+}
+
+
+
+.text-wrapper-11 {
+  color: #ad1717;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 29px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+ .m-d-y-btn {
+  height: 54px;
+  left: 728px;
+  position: absolute;
+  top: 74px;
+  width: 206px;
+}
+
+
+.text-wrapper-12 {
+  color: #000000;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 39px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+}
+
+.travel-website .destination-btn {
+  height: 54px;
+  left: 207px;
+  position: absolute;
+  top: 74px;
+  width: 205px;
+}
+
+
+
+.text-wrapper-13 {
+  color: #000000;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 16px;
+  width: 121px;
+}
+
+.travel-website .find-your-holidays-2 {
+  color: #000000;
+  font-family: "Krona One-Regular", Helvetica;
+  font-size: 24px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0.1px;
+  line-height: normal;
+  position: absolute;
+  top: 71px;
+}
